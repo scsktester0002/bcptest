@@ -2,3 +2,4 @@ todo list
 1. mock create
 2. design adjust
 3. validation consider
+4. qa 020-022 added
