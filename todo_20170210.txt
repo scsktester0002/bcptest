@@ -3,6 +3,7 @@ todo list
 2. design adjust
 3. validation consider
 4. qa 020-022 added
-5. qa 020 completed
-6. qa 021 in qa
+5. qa 020 completed(1st page url -> basepolicy)
+6. qa 021 in qa()
 7. qa 022 in qa
+8. qa 
